@@ -1,0 +1,490 @@
+[Mon Nov 20 07:01:44 GMT 2017] Received Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.45 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:01:39 GMT 2017
+[8mha:////4MXEcw48uw6SiNRdiuIOzzRmYj0Bqx+DpyKTIP3LllMLAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8Des5jAASFUX6jgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-promotion-page...
+
+    Checking branch [8mha:////4LuEEbVq7gHsfDbBqTY1GmMizaH46Dp5jAbe1X0uBhQxAAAAyh+LCAAAAAAAAP9djTFuQjEQRDc/IgdIidLkAGY7iiCqNImE0tClM/yVbTDe1Xp/BNfgGknDITgOd8ARHdPMNO/N3wVGVeElDn3lMllzqZxp8nEQ0pzK9ouNpvPf0/wo5w66T3jKVILFBTwOmg2eFxv/4zH7EnBpmkqY7RXGd7r3W//L4JaHDmAvbbwafEczqW+IIVkcVo3aoVIvTUoWG5MrqsTsfOmVU++8CJoSoVE11Cq0divmbXt3orxjS1yc+EBXkUE3Ad8AAAA=[0mtest/rspec-booking-promotion-page
+
+  Getting remote pull request #1070...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: test/rspec-booking-promotion-page (3e9bdc54e8bd6e0548ba6601ea8d36634930b735 → eba673175892f79b6776fa7aed42b4e4ae05d7cc)
+Scheduled build for branch: test/rspec-booking-promotion-page
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4Kh36PzE2b020oQfe2WxyN/U7KG7hpgiwSORfIXD1joPAAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEoQEJlIoGpIiGCQy24sBhn+wLCmuwBjQMwTjsgFE6fvN+897zA2nwMDWtCs7mR2eDQ51vbqQ9Nva8c6zn5eNV3umdQLKFEWpbs6lg2HpkGFcneZUCpa3Fnn1j61XnYfKXW/f8xaDfIAHoKJ6UoTTMFJZC1A2b9hCti/BaUYxqNtHBIDwZzKRV3jUqk0SCWkQxKxbFFyf34xXCAAAA[0m#1070
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1070 (3e9bdc54e8bd6e0548ba6601ea8d36634930b735+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → eba673175892f79b6776fa7aed42b4e4ae05d7cc+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1070
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:01:51 GMT 2017] Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.45 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:01:39 GMT 2017 processed in 7 sec
+[Mon Nov 20 07:03:39 GMT 2017] Received Push event to branch test/jenkins-up in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:03:33 GMT 2017
+[Mon Nov 20 07:03:39 GMT 2017] Received Pull request #1067 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.34 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:03:34 GMT 2017
+[8mha:////4M5fu5WqUpgW+nHyefLjy1zWqds/TAAVJI+OX09ZV5AmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8DdsYBgB4jjVCjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[8mha:////4Gj5p1pKUkMdWeW4W1eGdhaX5rTVIB7PegqDv/DNHZPKAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8DdtYQQDLn54xjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/jenkins-up...
+
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/jenkins-up...
+
+    Checking branch [8mha:////4KtZUhYThU5H4lJeQ6Uvz4uFZPBHfYU5dUni57ynATioAAAAvh+LCAAAAAAAAP9djDFuwkAQRQej0CKlRFzBno4CREUDEkqTEyx45F2zmR3NjpFzjVwjNByC43AHjOj4zfvNe5c7fGSFue/qnLg6Js4pUrX9FdIY+PSVjBbr/+v6T24FFDuYROLG/B7GnUaDz33rzg6j4wa/TQM3q15h9pbbvPiMwWujAqCX4UwNtt5M8hKxCea7w2D9oFItQ5TMD07MqOJj6bjWFOrSiaApERplw5b4FDiXnTwAa/SCHM0AAAA=[0mtest/jenkins-up
+
+  Getting remote pull request #1067...
+    Checking branch [8mha:////4KtZUhYThU5H4lJeQ6Uvz4uFZPBHfYU5dUni57ynATioAAAAvh+LCAAAAAAAAP9djDFuwkAQRQej0CKlRFzBno4CREUDEkqTEyx45F2zmR3NjpFzjVwjNByC43AHjOj4zfvNe5c7fGSFue/qnLg6Js4pUrX9FdIY+PSVjBbr/+v6T24FFDuYROLG/B7GnUaDz33rzg6j4wa/TQM3q15h9pbbvPiMwWujAqCX4UwNtt5M8hKxCea7w2D9oFItQ5TMD07MqOJj6bjWFOrSiaApERplw5b4FDiXnTwAa/SCHM0AAAA=[0mtest/jenkins-up
+
+  Getting remote pull requests from branch test/jenkins-up...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: test/jenkins-up (still at a0525973ba78aaa48a0ee621be9572234cadf428)
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:03:43 GMT 2017] Push event to branch test/jenkins-up in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:03:33 GMT 2017 processed in 4.1 sec
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: test/jenkins-up (77279b643a1bab7bb9f98322b05c3183614aacfc → a0525973ba78aaa48a0ee621be9572234cadf428)
+Scheduled build for branch: test/jenkins-up
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4FuS8UpUbwh25rqlHT48aqb+Veu0sIurfKGaGZsIi+yaAAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXE0AQJlIoGpIiGCQyx7MBhn+wLCmuwBjQMwTjsgFE6fvN+897zA2nwMDVtHZzNj84Ghyrf3Eh5bOx551gV5eNV3umdQLKFESqr2VQwbD0yjKuTvEqB0mqxZ99Yveo8TP5y656/GPQbJAAdxZMylIaZwlII3bBpD9G6CK9qilHFJjoYhCeDmbS1d02dSSJBLaKYz4rFF8VTnJLCAAAA[0m#1067
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1067 (77279b643a1bab7bb9f98322b05c3183614aacfc+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → a0525973ba78aaa48a0ee621be9572234cadf428+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1067
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:03:44 GMT 2017] Pull request #1067 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.34 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:03:34 GMT 2017 processed in 4.8 sec
+[Mon Nov 20 07:34:46 GMT 2017] Received Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:34:41 GMT 2017
+[8mha:////4ELtk1lpT1qljmdSW+blujaQ/vL/2DT4XY4B7EUvhHc4AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jcjbvwGcyEZTjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/upgrade-gradle-and-dependencies...
+
+    Checking branch [8mha:////4PMHmEK8RoEjTmtDSki6pzeNK5k21KdJkkSxLvAMuXDtAAAAzB+LCAAAAAAAAP9djDFOQzEQRJcfhQNQIvpUP9ulAKWiIVJEkwtg4o1tMOvVeh2Fa3AN0uQQOU7uwP9KxxQzU8y84wWmVeEhNl8Lz7eFa8k0f/kW0pz487UYLZa/p+WPnDvoVnCbiYPFNUyaZoO79YfbO8yOA25ME4eng8L9P9zzNUcYXHXTARxkKDODt2gm9RExJIvtfXh9oZKXAUoWh0+uqBJz79hrSb53ImhKhDty1pSwSVDnqR8907jrPQmxJ94mqn/bCXRU5QAAAA==[0mfeature/upgrade-gradle-and-dependencies
+
+  Getting remote pull requests from branch feature/upgrade-gradle-and-dependencies...
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:34:50 GMT 2017] Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:34:41 GMT 2017 processed in 3.7 sec
+[Mon Nov 20 07:40:52 GMT 2017] Received Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:40:47 GMT 2017
+[8mha:////4FaQSwS3PCT+tfOezc40nxaN4+4SePd5o/XwpsA+XmJlAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jfgCZQDqizCSjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/upgrade-gradle-and-dependencies...
+
+    Checking branch [8mha:////4PMHmEK8RoEjTmtDSki6pzeNK5k21KdJkkSxLvAMuXDtAAAAzB+LCAAAAAAAAP9djDFOQzEQRJcfhQNQIvpUP9ulAKWiIVJEkwtg4o1tMOvVeh2Fa3AN0uQQOU7uwP9KxxQzU8y84wWmVeEhNl8Lz7eFa8k0f/kW0pz487UYLZa/p+WPnDvoVnCbiYPFNUyaZoO79YfbO8yOA25ME4eng8L9P9zzNUcYXHXTARxkKDODt2gm9RExJIvtfXh9oZKXAUoWh0+uqBJz79hrSb53ImhKhDty1pSwSVDnqR8907jrPQmxJ94mqn/bCXRU5QAAAA==[0mfeature/upgrade-gradle-and-dependencies
+
+  Getting remote pull requests from branch feature/upgrade-gradle-and-dependencies...
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:40:55 GMT 2017] Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:40:47 GMT 2017 processed in 2.8 sec
+[Mon Nov 20 07:47:53 GMT 2017] Received Pull request #1073 opened in repository redplanethotels/rphl-android-app CREATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:47:48 GMT 2017
+[8mha:////4DDJvodyVaggjR9d19PdLKLaHx/SyZ/QLDyZ/GGsokZxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jdR7hwGzmEIrjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/upgrade-gradle-and-dependencies...
+
+    Checking branch [8mha:////4PMHmEK8RoEjTmtDSki6pzeNK5k21KdJkkSxLvAMuXDtAAAAzB+LCAAAAAAAAP9djDFOQzEQRJcfhQNQIvpUP9ulAKWiIVJEkwtg4o1tMOvVeh2Fa3AN0uQQOU7uwP9KxxQzU8y84wWmVeEhNl8Lz7eFa8k0f/kW0pz487UYLZa/p+WPnDvoVnCbiYPFNUyaZoO79YfbO8yOA25ME4eng8L9P9zzNUcYXHXTARxkKDODt2gm9RExJIvtfXh9oZKXAUoWh0+uqBJz79hrSb53ImhKhDty1pSwSVDnqR8907jrPQmxJ94mqn/bCXRU5QAAAA==[0mfeature/upgrade-gradle-and-dependencies
+
+  Getting remote pull request #1073...
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: feature/upgrade-gradle-and-dependencies
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4HIVzu3PzdkLS2TDghKlPapVmgJ85Flm0CpVS3YuF56zAAAAtx+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEICSQQKloQIpomMAQKw4c9sk+o7AGa0DDEIzDDhil4zfvN+89P5B6B2MdKm9NfrTGW1T55kbKYWPOO8tqXjxexZ3eCSRbGKAyNesS+sEhw7A8yasUKE0t9uwaU69aB6O/3LrjLwbdeglAS/GkDIVmJr8Uom5Yh0O0LsKpimJUsY4OeuFIYyZN5WxTZZJIUEAU08li9gWdpuqMwgAAAA==[0m#1073
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: PR-1073
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:47:59 GMT 2017] Pull request #1073 opened in repository redplanethotels/rphl-android-app CREATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:47:48 GMT 2017 processed in 6 sec
+[Mon Nov 20 07:48:54 GMT 2017] Received Push event to branch test/rspec-booking-with-breakfast in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:48:49 GMT 2017
+[8mha:////4AMrdi9pCgubI8t0GYkYp7hzcDflHimhXVKfl0eEaSr1AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jbTTBwBEkbiHjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[Mon Nov 20 07:48:55 GMT 2017] Received Pull request #1072 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:48:50 GMT 2017
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-with-breakfast...
+
+[8mha:////4GCqCJOrWKlkfQF2uTzmbfk9wtOnl3KwHPTehEo/KM/kAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jbRzPwEJ7cqljgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-with-breakfast...
+
+    Checking branch [8mha:////4Ek3HY+Cj5pqhy4AlFXLZF/2HUvPY89LA2s9uPoPWakjAAAAyx+LCAAAAAAAAP9djT1uAjEQhYdF5AApEQ0HMNOlCKKiAQnR0KXzspP1ssYejWf5uQbXCA2H4DjcIUZ0vOa95vve9QGDJDByXZVimGxjSNHTZHFmEt+Edh2VvmZ/t9mF7wUUS/jwFGp1K+h34hU+Vzt7sOhtqHGj0oR6ehIYvunmr37K4JVeAXDiPMYKP06V0zdi3ajrykztUajiLCV1mfEJhZ03NlQSm8pYZlQhQqWkKIlpa8oY2/xujtlhSiHb/tqk/xVpVOzfAAAA[0mtest/rspec-booking-with-breakfast
+
+  Getting remote pull requests from branch test/rspec-booking-with-breakfast...
+      ‘Jenkinsfile’ found
+    Met criteria
+Branch reopened: test/rspec-booking-with-breakfast (9f293d9dd5df59357ab81d5b94739cd48d1d8614)
+Scheduled build for branch: test/rspec-booking-with-breakfast
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:48:59 GMT 2017] Push event to branch test/rspec-booking-with-breakfast in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:48:49 GMT 2017 processed in 4.1 sec
+    Checking branch [8mha:////4Ek3HY+Cj5pqhy4AlFXLZF/2HUvPY89LA2s9uPoPWakjAAAAyx+LCAAAAAAAAP9djT1uAjEQhYdF5AApEQ0HMNOlCKKiAQnR0KXzspP1ssYejWf5uQbXCA2H4DjcIUZ0vOa95vve9QGDJDByXZVimGxjSNHTZHFmEt+Edh2VvmZ/t9mF7wUUS/jwFGp1K+h34hU+Vzt7sOhtqHGj0oR6ehIYvunmr37K4JVeAXDiPMYKP06V0zdi3ajrykztUajiLCV1mfEJhZ03NlQSm8pYZlQhQqWkKIlpa8oY2/xujtlhSiHb/tqk/xVpVOzfAAAA[0mtest/rspec-booking-with-breakfast
+
+  Getting remote pull request #1072...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: test/rspec-booking-with-breakfast (still at 9f293d9dd5df59357ab81d5b94739cd48d1d8614)
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4PMuBj/kX/3DhbgLHrgfQ2xQ7UxFr7Ynm2R2MVMrRV+5AAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEQAESKBUNSBENExhixYHDPtlnFNZgDWgYgnHYAaN0/Ob95r3nB1LvYKxD5a3Jj9Z4iyrf3Eg5bMx5Z1nNi8eruNM7gWQLA1SmZl1CPzhkGJYneZUCpanFnl1j6lXrYPSXW3f8xaBbLwFoKZ6UodDM5JdC1A3rcIjWRThVUYwq1tFBLxxpzKSpnG2qTBIJCohiOlnMvguW7fvCAAAA[0m#1072
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: PR-1072
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:49:01 GMT 2017] Pull request #1072 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:48:50 GMT 2017 processed in 5.7 sec
+[Mon Nov 20 07:53:34 GMT 2017] Received Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:53:29 GMT 2017
+[Mon Nov 20 07:53:34 GMT 2017] Received Push event to branch test/rspec-booking-promotion-page in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.40 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:53:29 GMT 2017
+[8mha:////4JBrVfwc48z9TcqvQWWk46t6tKxM55USy5/dbxfDyATcAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jWzRHABFBbtPjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[8mha:////4OzI13w6yEDBWtwQqGo/Tt+OoBtapRdXYSx63845Tyo9AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jWwxDgDH80kujgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-promotion-page...
+
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-promotion-page...
+
+    Checking branch [8mha:////4LuEEbVq7gHsfDbBqTY1GmMizaH46Dp5jAbe1X0uBhQxAAAAyh+LCAAAAAAAAP9djTFuQjEQRDc/IgdIidLkAGY7iiCqNImE0tClM/yVbTDe1Xp/BNfgGknDITgOd8ARHdPMNO/N3wVGVeElDn3lMllzqZxp8nEQ0pzK9ouNpvPf0/wo5w66T3jKVILFBTwOmg2eFxv/4zH7EnBpmkqY7RXGd7r3W//L4JaHDmAvbbwafEczqW+IIVkcVo3aoVIvTUoWG5MrqsTsfOmVU++8CJoSoVE11Cq0divmbXt3orxjS1yc+EBXkUE3Ad8AAAA=[0mtest/rspec-booking-promotion-page
+
+  Getting remote pull requests from branch test/rspec-booking-promotion-page...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: test/rspec-booking-promotion-page (eba673175892f79b6776fa7aed42b4e4ae05d7cc → 93d9580483ec2c36304201119f1fd7d360c045d2)
+Scheduled build for branch: test/rspec-booking-promotion-page
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:53:41 GMT 2017] Push event to branch test/rspec-booking-promotion-page in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.40 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:53:29 GMT 2017 processed in 6.7 sec
+    Checking branch [8mha:////4LuEEbVq7gHsfDbBqTY1GmMizaH46Dp5jAbe1X0uBhQxAAAAyh+LCAAAAAAAAP9djTFuQjEQRDc/IgdIidLkAGY7iiCqNImE0tClM/yVbTDe1Xp/BNfgGknDITgOd8ARHdPMNO/N3wVGVeElDn3lMllzqZxp8nEQ0pzK9ouNpvPf0/wo5w66T3jKVILFBTwOmg2eFxv/4zH7EnBpmkqY7RXGd7r3W//L4JaHDmAvbbwafEczqW+IIVkcVo3aoVIvTUoWG5MrqsTsfOmVU++8CJoSoVE11Cq0divmbXt3orxjS1yc+EBXkUE3Ad8AAAA=[0mtest/rspec-booking-promotion-page
+
+  Getting remote pull request #1070...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: test/rspec-booking-promotion-page (still at 93d9580483ec2c36304201119f1fd7d360c045d2)
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4Kh36PzE2b020oQfe2WxyN/U7KG7hpgiwSORfIXD1joPAAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEoQEJlIoGpIiGCQy24sBhn+wLCmuwBjQMwTjsgFE6fvN+897zA2nwMDWtCs7mR2eDQ51vbqQ9Nva8c6zn5eNV3umdQLKFEWpbs6lg2HpkGFcneZUCpa3Fnn1j61XnYfKXW/f8xaDfIAHoKJ6UoTTMFJZC1A2b9hCti/BaUYxqNtHBIDwZzKRV3jUqk0SCWkQxKxbFFyf34xXCAAAA[0m#1070
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1070 (eba673175892f79b6776fa7aed42b4e4ae05d7cc+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → 93d9580483ec2c36304201119f1fd7d360c045d2+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1070
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:53:43 GMT 2017] Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:53:29 GMT 2017 processed in 8.8 sec
+[Mon Nov 20 07:54:47 GMT 2017] Received Pull request #1072 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.35 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:54:42 GMT 2017
+[Mon Nov 20 07:54:46 GMT 2017] Received Push event to branch test/rspec-booking-with-breakfast in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:54:41 GMT 2017
+[8mha:////4GK53nO0NhsMJiDeaqSbXNtA/jUiyyffnWi+VZIvfXWrAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jRw9ZwChwZfdjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[8mha:////4OZd+SmJ1du43DLWm4x2ejuMboJshM7F4RzcgfevnUzGAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jRwDMQAFW9cSjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-with-breakfast...
+
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-with-breakfast...
+
+    Checking branch [8mha:////4Ek3HY+Cj5pqhy4AlFXLZF/2HUvPY89LA2s9uPoPWakjAAAAyx+LCAAAAAAAAP9djT1uAjEQhYdF5AApEQ0HMNOlCKKiAQnR0KXzspP1ssYejWf5uQbXCA2H4DjcIUZ0vOa95vve9QGDJDByXZVimGxjSNHTZHFmEt+Edh2VvmZ/t9mF7wUUS/jwFGp1K+h34hU+Vzt7sOhtqHGj0oR6ehIYvunmr37K4JVeAXDiPMYKP06V0zdi3ajrykztUajiLCV1mfEJhZ03NlQSm8pYZlQhQqWkKIlpa8oY2/xujtlhSiHb/tqk/xVpVOzfAAAA[0mtest/rspec-booking-with-breakfast
+
+  Getting remote pull requests from branch test/rspec-booking-with-breakfast...
+    Checking branch [8mha:////4Ek3HY+Cj5pqhy4AlFXLZF/2HUvPY89LA2s9uPoPWakjAAAAyx+LCAAAAAAAAP9djT1uAjEQhYdF5AApEQ0HMNOlCKKiAQnR0KXzspP1ssYejWf5uQbXCA2H4DjcIUZ0vOa95vve9QGDJDByXZVimGxjSNHTZHFmEt+Edh2VvmZ/t9mF7wUUS/jwFGp1K+h34hU+Vzt7sOhtqHGj0oR6ehIYvunmr37K4JVeAXDiPMYKP06V0zdi3ajrykztUajiLCV1mfEJhZ03NlQSm8pYZlQhQqWkKIlpa8oY2/xujtlhSiHb/tqk/xVpVOzfAAAA[0mtest/rspec-booking-with-breakfast
+
+  Getting remote pull request #1072...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: test/rspec-booking-with-breakfast (9f293d9dd5df59357ab81d5b94739cd48d1d8614 → 0fad29e8b2a0c63198ace06ea15dc7c11599ef62)
+Scheduled build for branch: test/rspec-booking-with-breakfast
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:54:52 GMT 2017] Push event to branch test/rspec-booking-with-breakfast in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:54:41 GMT 2017 processed in 6 sec
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: test/rspec-booking-with-breakfast (still at 0fad29e8b2a0c63198ace06ea15dc7c11599ef62)
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4PMuBj/kX/3DhbgLHrgfQ2xQ7UxFr7Ynm2R2MVMrRV+5AAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEQAESKBUNSBENExhixYHDPtlnFNZgDWgYgnHYAaN0/Ob95r3nB1LvYKxD5a3Jj9Z4iyrf3Eg5bMx5Z1nNi8eruNM7gWQLA1SmZl1CPzhkGJYneZUCpanFnl1j6lXrYPSXW3f8xaBbLwFoKZ6UodDM5JdC1A3rcIjWRThVUYwq1tFBLxxpzKSpnG2qTBIJCohiOlnMvguW7fvCAAAA[0m#1072
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1072 (9f293d9dd5df59357ab81d5b94739cd48d1d8614+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → 0fad29e8b2a0c63198ace06ea15dc7c11599ef62+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1072
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:54:54 GMT 2017] Pull request #1072 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.35 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:54:42 GMT 2017 processed in 7.5 sec
+[Mon Nov 20 07:55:24 GMT 2017] Received Push event to branch test/rspec-booking-promotion-page in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:55:19 GMT 2017
+[8mha:////4NjrmqvHR99eJlh8QMGHPoQSOU5ctUc62mYO13DoLslUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jZx9xwAUPAQxjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[Mon Nov 20 07:55:25 GMT 2017] Received Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:55:20 GMT 2017
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-promotion-page...
+
+[8mha:////4O2c0evHNgkBPXdY7MC2CrSGC2t5gZPS7OBap5k7P6zRAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jZwDZwHksWoXjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch test/rspec-booking-promotion-page...
+
+    Checking branch [8mha:////4LuEEbVq7gHsfDbBqTY1GmMizaH46Dp5jAbe1X0uBhQxAAAAyh+LCAAAAAAAAP9djTFuQjEQRDc/IgdIidLkAGY7iiCqNImE0tClM/yVbTDe1Xp/BNfgGknDITgOd8ARHdPMNO/N3wVGVeElDn3lMllzqZxp8nEQ0pzK9ouNpvPf0/wo5w66T3jKVILFBTwOmg2eFxv/4zH7EnBpmkqY7RXGd7r3W//L4JaHDmAvbbwafEczqW+IIVkcVo3aoVIvTUoWG5MrqsTsfOmVU++8CJoSoVE11Cq0divmbXt3orxjS1yc+EBXkUE3Ad8AAAA=[0mtest/rspec-booking-promotion-page
+
+  Getting remote pull request #1070...
+    Checking branch [8mha:////4LuEEbVq7gHsfDbBqTY1GmMizaH46Dp5jAbe1X0uBhQxAAAAyh+LCAAAAAAAAP9djTFuQjEQRDc/IgdIidLkAGY7iiCqNImE0tClM/yVbTDe1Xp/BNfgGknDITgOd8ARHdPMNO/N3wVGVeElDn3lMllzqZxp8nEQ0pzK9ouNpvPf0/wo5w66T3jKVILFBTwOmg2eFxv/4zH7EnBpmkqY7RXGd7r3W//L4JaHDmAvbbwafEczqW+IIVkcVo3aoVIvTUoWG5MrqsTsfOmVU++8CJoSoVE11Cq0divmbXt3orxjS1yc+EBXkUE3Ad8AAAA=[0mtest/rspec-booking-promotion-page
+
+  Getting remote pull requests from branch test/rspec-booking-promotion-page...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: test/rspec-booking-promotion-page (93d9580483ec2c36304201119f1fd7d360c045d2 → 26390286893cab4f681eb23e6886519a8bc71241)
+Scheduled build for branch: test/rspec-booking-promotion-page
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:55:29 GMT 2017] Push event to branch test/rspec-booking-promotion-page in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:55:19 GMT 2017 processed in 4.5 sec
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: test/rspec-booking-promotion-page (still at 26390286893cab4f681eb23e6886519a8bc71241)
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4Kh36PzE2b020oQfe2WxyN/U7KG7hpgiwSORfIXD1joPAAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEoQEJlIoGpIiGCQy24sBhn+wLCmuwBjQMwTjsgFE6fvN+897zA2nwMDWtCs7mR2eDQ51vbqQ9Nva8c6zn5eNV3umdQLKFEWpbs6lg2HpkGFcneZUCpa3Fnn1j61XnYfKXW/f8xaDfIAHoKJ6UoTTMFJZC1A2b9hCti/BaUYxqNtHBIDwZzKRV3jUqk0SCWkQxKxbFFyf34xXCAAAA[0m#1070
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1070 (93d9580483ec2c36304201119f1fd7d360c045d2+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → 26390286893cab4f681eb23e6886519a8bc71241+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1070
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:55:31 GMT 2017] Pull request #1070 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:55:20 GMT 2017 processed in 6.4 sec
+[Mon Nov 20 07:59:47 GMT 2017] Received Push event to branch feature/ui_test_chat_with_frontdesk in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.45 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:59:42 GMT 2017
+[8mha:////4C6qEKgiCoZEmlLlgLce+F1SumQzFC9OQyF2uHVzuom4AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jYKD6gDX0ZJbjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[Mon Nov 20 07:59:48 GMT 2017] Received Pull request #1055 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:59:43 GMT 2017
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/ui_test_chat_with_frontdesk...
+
+[8mha:////4PtlTF+46I5O6YvOxwGQpbjcKAZlWCofcUX+ecKpuHcEAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jYLDjwH8ta31jgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/ui_test_chat_with_frontdesk...
+
+    Checking branch [8mha:////4BqcXtDCtw8U3cs0KD5A6jd0uDRb69zs3JPwVaXzf/seAAAAzh+LCAAAAAAAAP9dzDFuAjEQBdDJRuEAlFG61Ox0FKCt0hAJpUkbaWXWs2uDsa3xOCHX4BqkySE4DnfAaDt+83/z398FnhLDi8k6BV93wafgqF79RmJn/e4jCM2b039zjOcKqneYOPKDmDU8ZnYC0/VWfSt0yg/4KWz9sDwwPN9xb2PfMBjzUAEcYhmvAl9GJKYF4mDF5E157ZFJx4KSmPJxCTkaN1Nec7B6pmJEYSLsSUlmwmxboSRtZ5S0P0Vpew5eNKXdFVuvIW3hAAAA[0mfeature/ui_test_chat_with_frontdesk
+
+  Getting remote pull requests from branch feature/ui_test_chat_with_frontdesk...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature/ui_test_chat_with_frontdesk (f490de38d259a8f8a0892992385490d7e00f41d4 → 8966b0ece886629a512115c3d307478e338b8c9d)
+Scheduled build for branch: feature/ui_test_chat_with_frontdesk
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:59:51 GMT 2017] Push event to branch feature/ui_test_chat_with_frontdesk in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.45 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:59:42 GMT 2017 processed in 4.2 sec
+    Checking branch [8mha:////4BqcXtDCtw8U3cs0KD5A6jd0uDRb69zs3JPwVaXzf/seAAAAzh+LCAAAAAAAAP9dzDFuAjEQBdDJRuEAlFG61Ox0FKCt0hAJpUkbaWXWs2uDsa3xOCHX4BqkySE4DnfAaDt+83/z398FnhLDi8k6BV93wafgqF79RmJn/e4jCM2b039zjOcKqneYOPKDmDU8ZnYC0/VWfSt0yg/4KWz9sDwwPN9xb2PfMBjzUAEcYhmvAl9GJKYF4mDF5E157ZFJx4KSmPJxCTkaN1Nec7B6pmJEYSLsSUlmwmxboSRtZ5S0P0Vpew5eNKXdFVuvIW3hAAAA[0mfeature/ui_test_chat_with_frontdesk
+
+  Getting remote pull request #1055...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: feature/ui_test_chat_with_frontdesk (still at 8966b0ece886629a512115c3d307478e338b8c9d)
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+    Checking pull request [8mha:////4AAVd06gE65q6WRfs62XyEhwA72Otx5XSBgZMgd85cwLAAAAth+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEUIQClIoGpIiGCQyx7MBhn+wLCmuwBjQMwTjsgFE6fvN+897zA2nwMDVtHZzNj84Ghyrf3Eh5bOx551gtyservNM7gWQLI1RWs6lg2HpkGFcneZUCpdViz76xetV5mPzl1j1/Meg3SAA6iidlKA0zhaUQumHTHqJ1EV7VFKOKTXQwCE8GM2lr75o6k0SCWkQxnxXFFyphv1fCAAAA[0m#1055
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1055 (f490de38d259a8f8a0892992385490d7e00f41d4+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → 8966b0ece886629a512115c3d307478e338b8c9d+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1055
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 07:59:53 GMT 2017] Pull request #1055 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 07:59:43 GMT 2017 processed in 5.2 sec
+[Mon Nov 20 08:03:15 GMT 2017] Received Pull request #1073 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 08:03:10 GMT 2017
+[Mon Nov 20 08:03:14 GMT 2017] Received Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 08:03:09 GMT 2017
+[8mha:////4Pl7Vt/wzszPernMVELb4APpjpfXT/4NC7TaonZTURXLAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jeL3aQCkFwhTjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+[8mha:////4GkOeNqWnlER/KKvZ9qGCo/IH+ADF3Im3buoxIpQ8WokAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHT8jeKP5gAZSSWbjgAAAA==[0mConnecting to https://api.github.com using sleepylee/****** (Trung's account)
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/upgrade-gradle-and-dependencies...
+
+Examining [8mha:////4GamEE2MWTc0zA5CAxdczM+NcrPsyrA7D7AxMyWBXBqHAAAAsB+LCAAAAAAAAP9djLENwjAQRY8gGIASUbBA4gKJApSKBqSIhgkMtmyDsU/nCwprsAY0DME47IARHb95v3nv8YZBIpjYVqUYqkMMKXpdra+oybtw2kbW8/r+rG/4KqDYwNDrYNg20G/JM4yao7xI4WUwYsfkgll2BOO/3OrHbwx+6xUAHeYzZZhZZkwLIYxj2+6zdRakFeaoZpsdnwSh9aUMiqJTpUT8AKbx8u+4AAAA[0mredplanethotels/rphl-android-app
+
+  Checking branches...
+
+  Getting remote branch feature/upgrade-gradle-and-dependencies...
+
+    Checking branch [8mha:////4PMHmEK8RoEjTmtDSki6pzeNK5k21KdJkkSxLvAMuXDtAAAAzB+LCAAAAAAAAP9djDFOQzEQRJcfhQNQIvpUP9ulAKWiIVJEkwtg4o1tMOvVeh2Fa3AN0uQQOU7uwP9KxxQzU8y84wWmVeEhNl8Lz7eFa8k0f/kW0pz487UYLZa/p+WPnDvoVnCbiYPFNUyaZoO79YfbO8yOA25ME4eng8L9P9zzNUcYXHXTARxkKDODt2gm9RExJIvtfXh9oZKXAUoWh0+uqBJz79hrSb53ImhKhDty1pSwSVDnqR8907jrPQmxJ94mqn/bCXRU5QAAAA==[0mfeature/upgrade-gradle-and-dependencies
+
+  Getting remote pull request #1073...
+      ‘Jenkinsfile’ found
+    Met criteria
+    Checking branch [8mha:////4PMHmEK8RoEjTmtDSki6pzeNK5k21KdJkkSxLvAMuXDtAAAAzB+LCAAAAAAAAP9djDFOQzEQRJcfhQNQIvpUP9ulAKWiIVJEkwtg4o1tMOvVeh2Fa3AN0uQQOU7uwP9KxxQzU8y84wWmVeEhNl8Lz7eFa8k0f/kW0pz487UYLZa/p+WPnDvoVnCbiYPFNUyaZoO79YfbO8yOA25ME4eng8L9P9zzNUcYXHXTARxkKDODt2gm9RExJIvtfXh9oZKXAUoWh0+uqBJz79hrSb53ImhKhDty1pSwSVDnqR8907jrPQmxJ94mqn/bCXRU5QAAAA==[0mfeature/upgrade-gradle-and-dependencies
+
+  Getting remote pull requests from branch feature/upgrade-gradle-and-dependencies...
+Changes detected: feature/upgrade-gradle-and-dependencies (061b96f7657eeb746a213a35452cec53c97fed4f → 51b6f099e322ab600bac1c52d1357d5f9af6325e)
+Scheduled build for branch: feature/upgrade-gradle-and-dependencies
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: feature/upgrade-gradle-and-dependencies (still at 51b6f099e322ab600bac1c52d1357d5f9af6325e)
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 08:03:21 GMT 2017] Push event to branch feature/upgrade-gradle-and-dependencies in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.41 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 08:03:09 GMT 2017 processed in 6.5 sec
+    Checking pull request [8mha:////4HIVzu3PzdkLS2TDghKlPapVmgJ85Flm0CpVS3YuF56zAAAAtx+LCAAAAAAAAP9djLENwjAQRY+gMAAlYoXEICSQQKloQIpomMAQKw4c9sk+o7AGa0DDEIzDDhil4zfvN+89P5B6B2MdKm9NfrTGW1T55kbKYWPOO8tqXjxexZ3eCSRbGKAyNesS+sEhw7A8yasUKE0t9uwaU69aB6O/3LrjLwbdeglAS/GkDIVmJr8Uom5Yh0O0LsKpimJUsY4OeuFIYyZN5WxTZZJIUEAU08li9gWdpuqMwgAAAA==[0m#1073
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: PR-1073 (061b96f7657eeb746a213a35452cec53c97fed4f+77aa6336fdb2f2f392f6f047685227d9d99e1ee2 → 51b6f099e322ab600bac1c52d1357d5f9af6325e+77aa6336fdb2f2f392f6f047685227d9d99e1ee2)
+Scheduled build for branch: PR-1073
+
+  1 pull requests were processed (query completed)
+
+  1 pull requests were processed
+
+Finished examining redplanethotels/rphl-android-app
+
+[Mon Nov 20 08:03:22 GMT 2017] Pull request #1073 updated in repository redplanethotels/rphl-android-app UPDATED event from 192.30.252.42 ⇒ https://03cfbf51.ngrok.io:8080//github-webhook/ with timestamp Mon Nov 20 08:03:10 GMT 2017 processed in 6.5 sec
