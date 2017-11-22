@@ -129,6 +129,8 @@ brew update
 brew_install_or_upgrade 'git'
 brew_install_or_upgrade 'node'
 brew_install_or_upgrade 'openssl'
+brew_install_or_upgrade 'gdrive'
+
 brew unlink openssl && brew link openssl --force
 
 fancy_echo "Installing Java(8) Sdk"
