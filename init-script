@@ -128,7 +128,6 @@ brew update
 
 brew_install_or_upgrade 'git'
 brew_install_or_upgrade 'node'
-brew_install_or_upgrade 'openssl'
 brew_install_or_upgrade 'gdrive'
 
 brew unlink openssl && brew link openssl --force
@@ -142,6 +141,8 @@ fancy_echo "Installing Appium"
 ruby_version="$(curl -sSL http://ruby.thoughtbot.com/latest)"
 
 \curl -L https://get.rvm.io | bash -s stable
+
+. ~/.bash_profile
 
 rvm get stable --auto-dotfiles
 
