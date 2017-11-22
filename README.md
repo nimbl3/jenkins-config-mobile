@@ -4,7 +4,7 @@ Jenkins Configuration for mobile apps projects
 
 # HOW-TO run jenkins in docker and attach the volume:
 - Install Docker.
-- Run `$sh docker_run.sh`. This should start pulling the Jenkins/BlueOceanCI v1.3.3 for you and attaching the data volume from `volume-blueocean` (remember to cd to this directory first).
+- Run `$sh docker_run.sh`.
 - Jenkins is up at `https://localhost:8085` without any security. Next step is to re-configure the security and re-new the credentials to access to project's repository.
 
 # Re-config the Jenkins base security:
