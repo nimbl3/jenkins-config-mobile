@@ -15,3 +15,5 @@ gem install bundler
 
 fancy_echo "Configuring Bundler ..."
   bundle config --global
+
+bundle install

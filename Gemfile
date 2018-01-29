@@ -6,4 +6,4 @@ gem 'fabrication'
 gem 'faker'
 gem 'rspec_junit_formatter'
 gem 'rest-client'
-gem ‘fastlane’
+gem 'fastlane'
