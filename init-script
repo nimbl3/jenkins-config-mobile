@@ -146,9 +146,4 @@ ruby_version="$(curl -sSL http://ruby.thoughtbot.com/latest)"
 
 rvm get stable --auto-dotfiles
 
-rvm use ruby --install --default
-
-gem_install_or_update 'bundler'
-
-fancy_echo "Configuring Bundler ..."
-  bundle config --global
+fancy_echo "Finished! Please open a new command window and run install-ruby-component.sh"
