@@ -136,7 +136,7 @@ fancy_echo "Installing Java(8) Sdk"
   brew cask install caskroom/versions/java8
 
 fancy_echo "Installing Appium"
-  npm install -g appium
+  npm install -g appium@1.7.1
 
 ruby_version="$(curl -sSL http://ruby.thoughtbot.com/latest)"
 
