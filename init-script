@@ -127,7 +127,6 @@ fancy_echo "Updating Homebrew formulas ..."
 brew update
 
 brew_install_or_upgrade 'git'
-brew install node@8.9.1
 brew_install_or_upgrade 'gdrive'
 
 brew unlink openssl && brew link openssl --force
@@ -135,8 +134,6 @@ brew unlink openssl && brew link openssl --force
 fancy_echo "Installing Java(8) Sdk"
   brew cask install caskroom/versions/java8
 
-fancy_echo "Installing Appium"
-  npm install -g appium@1.7.1
 
 ruby_version="$(curl -sSL http://ruby.thoughtbot.com/latest)"
 
@@ -146,4 +143,7 @@ ruby_version="$(curl -sSL http://ruby.thoughtbot.com/latest)"
 
 rvm get stable --auto-dotfiles
 
+# brew install node@8.9.1 <- Please install this node version (from the included pkg file) for the stability at this time.
+fancy_echo "Please install this Appium version after installing node v8.9.1 and npm v5.5.1"
+# npm install -g appium@1.7.1
 fancy_echo "Finished! Please open a new command window and run install-ruby-component.sh"
