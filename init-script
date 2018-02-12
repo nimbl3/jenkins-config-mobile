@@ -127,7 +127,7 @@ fancy_echo "Updating Homebrew formulas ..."
 brew update
 
 brew_install_or_upgrade 'git'
-brew_install_or_upgrade 'node'
+brew install node@8.9.1
 brew_install_or_upgrade 'gdrive'
 
 brew unlink openssl && brew link openssl --force
