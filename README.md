@@ -39,7 +39,7 @@
         - UFW should be installed by default in Ubuntu.
 - Configurations
     - Enabling ports
-        - There are 2 places to enable ports, which are on the `OS` and `Dashboard`. For Digital Ocean, `Ubuntu` is contain inside the droplet. Both `Ubuntu` and `Droplet` need to enable the same ports. So that `Ubuntu` with specifc ports are reachable.
+        - There are 2 places to enable ports, which are on the `OS` and `Dashboard`. For Digital Ocean, `Ubuntu` is contained inside the droplet. Both `Ubuntu` and `Droplet` need to be enabled on the same port so that `Ubuntu` can be reachable.
         - Ubuntu Configuration
             - Enable Uncomplicated Firewall
                 - `sudo ufw enable`
@@ -49,7 +49,7 @@
                 - `sudo ufw allow 50000` 
             - Enable port 22 for remote SSH connection.
                 - `sudo ufw allow 22` 
-            - To list ports that enabled, 3 mentioned ports should be display.
+            - To validate all ports are enabled, 3 mentioned ports should be displayed.
                 - `sudo ufw status` 
         - VPS Dashboard Configuration (Digital Ocean)
             - Network -> Firewall -> Create firewall with ports `80`, `50000`, `22` 
