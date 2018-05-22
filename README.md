@@ -35,6 +35,8 @@
     - [Git](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04)
     - [Java](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04) 
     - [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
+    - [UFW (Uncomplicated Firewall)](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+        - UFW should be installed by default in Ubuntu.
 - Configurations
     - Enabling ports
         - There are 2 places to enable ports, which are on the `OS` and `Dashboard`. For Digital Ocean, `Ubuntu` is contain inside the droplet. Both `Ubuntu` and `Droplet` need to enable the same ports. So that `Ubuntu` with specifc ports are reachable.
