@@ -25,7 +25,7 @@
    $ sh setup_ios_environment.sh
    ```
 
-## Run jenkins in docker and attach the volume:
+## Run jenkins in local machine
 - Install Docker.
 - Run `$ sh docker_run.sh`.
 - Jenkins is up at `http://localhost` without any security. Next step is to re-configure the security and re-new the credentials to access to project's repository.
@@ -64,5 +64,5 @@
 ## Re-config the Jenkins base security:
 - Go to "Manage Jenkins" -> "Configure Global Security" -> "Enable Security" -> "Use Jenkin's own database" -> "Allow users to sign up".
 - Under Authorization, select: "Matrix-based security" and add new `admin` user with full permission.
-- Restart jenkins by log to `http://localhost/restart`.
+- Restart jenkins by log to `http://<JENKINS_URL>/restart`.
 - Signup with `admin` username. From now you can decide to disable `Allow users to sign up`.
