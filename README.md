@@ -36,17 +36,20 @@
     - [Java](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04) 
     - [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
 - Configurations
-    - Ports
-        - Linux
-            - `sudo ufw enable 80`
-                - Enable port 80 for Jenkins web dashboard.
-            - `sudo ufw enable 50000` 
-                - Enable port 50000 for Jenkins nodes connection.
-            - `sudo ufw enable 22` 
-                - Enable port 22 for remote SSH connection.
-            - `sudo ufw status` 
-                - To list ports that enabled, 3 mention ports should be included.
-        - VPS dashboard
+    - Enabling ports
+        - There are 2 places to enable ports, which are on the `OS` and `Dashboard`. For Digital Ocean, `Ubuntu` is contain inside the droplet. Both `Ubuntu` and `Droplet` need to enable the same ports. So that `Ubuntu` with specifc ports are reachable.
+        - Ubuntu Configuration
+            - Enable Uncomplicated Firewall
+                - `sudo ufw enable`
+            - Enable port 80 for Jenkins web dashboard.
+                - `sudo ufw allow 80`
+            - Enable port 50000 for Jenkins nodes connection.
+                - `sudo ufw allow 50000` 
+            - Enable port 22 for remote SSH connection.
+                - `sudo ufw allow 22` 
+            - To list ports that enabled, 3 mentioned ports should be display.
+                - `sudo ufw status` 
+        - VPS Dashboard Configuration (Digital Ocean)
             - Network -> Firewall -> Create firewall with ports `80`, `50000`, `22` 
 - Installing
     - Clone this repository
