@@ -2,7 +2,7 @@
 <slave>
   <name>androidslave</name>
   <description>Android slave</description>
-  <remoteFS>/Users/Shared/jenkin-workspace</remoteFS>
+  <remoteFS>/Users/Shared/jenkins</remoteFS>
   <numExecutors>1</numExecutors>
   <mode>NORMAL</mode>
   <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
