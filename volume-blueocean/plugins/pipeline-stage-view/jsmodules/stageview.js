@@ -1,4 +1,4 @@
-(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 var internal = require("./internal");
 var promise = require("./promise");
 var onRegisterTimeout;
@@ -5271,9 +5271,11 @@ module.exports = HandlebarsCompiler.template({"1":function(depth0,helpers,partia
     + alias2(alias1((depth0 != null ? depth0.status : depth0), depth0))
     + "\" data-runId=\""
     + alias2(alias1((depth0 != null ? depth0.id : depth0), depth0))
-    + "\">\n        <td class=\"stage-start\">\n          <div class=\"cell-color\">\n            <div class=\"cell-box\">\n              <div class=\"jobName\"><span class=\"badge\">"
+    + "\">\n        <td class=\"stage-start\">\n          <div class=\"cell-color\">\n            <div class=\"cell-box\">\n              <div class=\"jobName\"><span class=\"badge\"><a href=\""
+    + alias2(alias1((depth0 != null ? depth0.id : depth0), depth0))
+    + "\">"
     + alias2(alias1((depth0 != null ? depth0.name : depth0), depth0))
-    + "</span></div>\n              <div class=\"stage-start-box\">\n                <div class=\"stage-start-time\">\n                  <div class=\"date\">"
+    + "</a></span></div>\n              <div class=\"stage-start-box\">\n                <div class=\"stage-start-time\">\n                  <div class=\"date\">"
     + alias2((helpers.formatDate || (depth0 && depth0.formatDate) || alias3).call(depth0,(depth0 != null ? depth0.startTimeMillis : depth0),"month",{"name":"formatDate","hash":{},"data":data}))
     + " "
     + alias2((helpers.formatDate || (depth0 && depth0.formatDate) || alias3).call(depth0,(depth0 != null ? depth0.startTimeMillis : depth0),"dom",{"name":"formatDate","hash":{},"data":data}))
@@ -5444,11 +5446,13 @@ module.exports = HandlebarsCompiler.template({"1":function(depth0,helpers,partia
 },"4":function(depth0,helpers,partials,data) {
     return " and others";
 },"6":function(depth0,helpers,partials,data) {
-    var helper;
+    var stack1, helper, alias1=helpers.helperMissing;
 
   return "        <div class=\"header\">"
-    + this.escapeExpression(((helper = (helper = helpers.commitCount || (depth0 != null ? depth0.commitCount : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0,{"name":"commitCount","hash":{},"data":data}) : helper)))
-    + " commits</div>\n";
+    + this.escapeExpression(((helper = (helper = helpers.commitCount || (depth0 != null ? depth0.commitCount : depth0)) != null ? helper : alias1),(typeof helper === "function" ? helper.call(depth0,{"name":"commitCount","hash":{},"data":data}) : helper)))
+    + " commit"
+    + ((stack1 = (helpers.ifCond || (depth0 && depth0.ifCond) || alias1).call(depth0,(depth0 != null ? depth0.commitCount : depth0),">",1,{"name":"ifCond","hash":{},"fn":this.program(2, data, 0),"inverse":this.noop,"data":data})) != null ? stack1 : "")
+    + "</div>\n";
 },"8":function(depth0,helpers,partials,data) {
     var stack1, helper, alias1=helpers.helperMissing, alias2=this.escapeExpression;
 
@@ -5497,10 +5501,16 @@ module.exports = HandlebarsCompiler.template({"1":function(depth0,helpers,partia
 },{"jenkins-handlebars-rt/runtimes/handlebars3_rt":5}],59:[function(require,module,exports){
 // hbsfy compiled Handlebars template
 var HandlebarsCompiler = require('jenkins-handlebars-rt/runtimes/handlebars3_rt');
-module.exports = HandlebarsCompiler.template({"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
-    return "<div class=\"run-changesets\">\n    <div class=\"run-changeset\">\n        <strong class=\"num\">"
+module.exports = HandlebarsCompiler.template({"1":function(depth0,helpers,partials,data) {
+    return "s";
+},"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
+    var stack1;
+
+  return "<div class=\"run-changesets\">\n    <div class=\"run-changeset\">\n        <strong class=\"num\">"
     + this.escapeExpression(this.lambda((depth0 != null ? depth0.commitCount : depth0), depth0))
-    + "</strong>\n        <span class=\"changes commitLabel\">commits</span>\n    </div>\n</div>";
+    + "</strong>\n        <span class=\"changes commitLabel\">commit"
+    + ((stack1 = (helpers.ifCond || (depth0 && depth0.ifCond) || helpers.helperMissing).call(depth0,(depth0 != null ? depth0.commitCount : depth0),">",1,{"name":"ifCond","hash":{},"fn":this.program(1, data, 0),"inverse":this.noop,"data":data})) != null ? stack1 : "")
+    + "</span>\n    </div>\n</div>";
 },"useData":true});
 
 },{"jenkins-handlebars-rt/runtimes/handlebars3_rt":5}],60:[function(require,module,exports){

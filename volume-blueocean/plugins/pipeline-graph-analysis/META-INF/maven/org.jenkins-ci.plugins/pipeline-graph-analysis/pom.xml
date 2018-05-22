@@ -12,7 +12,7 @@
 
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>pipeline-graph-analysis</artifactId>
-    <version>1.5</version>
+    <version>1.6</version>
     <packaging>hpi</packaging>
     <name>Pipeline Graph Analysis Plugin</name>
     <url>https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Graph+Analysis+Plugin</url>
@@ -21,8 +21,16 @@
         <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
         <url>https://github.com/jenkinsci/${project.artifactId}-plugin/</url>
-        <tag>pipeline-graph-analysis-1.5</tag>
+        <tag>pipeline-graph-analysis-1.6</tag>
     </scm>
+
+    <licenses>
+        <license>
+            <name>MIT license</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <properties>
         <jenkins.version>2.7.3</jenkins.version>
@@ -48,7 +56,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins.workflow</groupId>
             <artifactId>workflow-job</artifactId>
-            <version>2.0</version>
+            <version>2.4</version>
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins.workflow</groupId>
@@ -121,6 +129,12 @@
             <groupId>org.jenkins-ci.plugins.workflow</groupId>
             <artifactId>workflow-durable-task-step</artifactId>
             <version>2.13</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jenkinsci.plugins</groupId>
+            <artifactId>pipeline-model-definition</artifactId>
+            <version>1.2.5</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
