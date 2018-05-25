@@ -1,5 +1,20 @@
 # Setting up iOS slave machine. 
 
+## Manual configurations
+
+*  Disable sleep mode
+```
+# System Preferences > Energy Saver > set Turn display off after to Never
+```
+* Disable screensaver
+```
+# System Preferences > Desktop & Screen Saver > set Start after to Never
+```
+* Allow Accessibility for Terminal in order to allow mocking simulator's location for UI testing
+```
+# System Preferences > Security & Privacy > Privacy > Accessibility > Add Terminal by tapping + button
+```
+
 ## Manual setup
 
 * Install **Xcode** 

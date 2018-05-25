@@ -7,23 +7,7 @@
    - Install Android Studio for the base tools set.
    - Create the desired Emulator profile to use for testing. 
 - For iOS development:
-   - Install Xcode with the specific version the project is currently using
-   - Disable screensaver mode and set 'Turn display off' to Never. This is required for UI testing with Appium.
-   ```
-   # disable sleep mode
-   System Preferences > Energy Saver > set Turn display off after to Never
-
-   # disable screensaver
-   System Preferences > Desktop & Screen Saver > set Start after to Never
-   ```
-   - Allow Accessibility for Terminal in order to allow mocking simulator's location for UI testing
-   ```
-   System Preferences > Security & Privacy > Privacy > Accessibility > Add Terminal by tapping + button
-   ```
-   - Open Terminal and run command
-   ```
-   $ sh setup_ios_environment.sh
-   ```
+   - [iOS Slave machine configurations](setup-ios-slave-machine.sh)
 
 ## Run jenkins in local machine
 - Install Docker.
