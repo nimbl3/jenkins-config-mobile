@@ -1,11 +1,11 @@
 # Jenkins Configuration for mobile apps projects
 
 ## Setup machine:
-- Run `$ sh init-script.sh`
-- Start Java as allowed service on Mac OS (required for the Hi-Sierra OS)
 - For Android development:
-   - Install Android Studio for the base tools set.
-   - Create the desired Emulator profile to use for testing. 
+    - Start Java as allowed service on Mac OS (required for the Hi-Sierra OS)
+    - Run `$ sh init-script.sh`
+    - Install Android Studio for the base tools set.
+    - Create the desired Emulator profile to use for testing. 
 - For iOS development:
    - [iOS Slave machine configurations](setup-ios-slave-machine.sh)
 
