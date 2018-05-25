@@ -7,7 +7,7 @@
     - Install Android Studio for the base tools set.
     - Create the desired Emulator profile to use for testing. 
 - For iOS development:
-   - [iOS Slave machine configurations](ios-slave-machine-setup.md.sh)
+   - [iOS Slave machine configurations](ios-slave-machine-setup.md)
 
 ## Run jenkins in local machine
 - Install Docker.
