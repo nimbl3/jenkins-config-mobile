@@ -22,6 +22,10 @@ echo "> Installing CMake & GMake"
 osascript -e 'tell application "terminal" to do script "brew install cmake && brew install homebrew/core/make"'
 echo ""
 
+echo "> Installing pkg-config"
+osascript -e 'tell application "terminal" to do script "brew install pkg-config"'
+echo ""
+
 echo "> Installing bundler"
 sudo gem install bundler 
 echo ""
