@@ -26,4 +26,8 @@ echo "> Adding bitbucket.org to unknown_hosts"
 ssh -o StrictHostKeychecking=no bitbucket.org
 echo ""
 
+echo "> Adding github.com to unknown_hosts"
+ssh -o StrictHostKeychecking=no github.com
+echo ""
+
 exit
