@@ -1,35 +1,28 @@
 # Setting up iOS slave machine. 
 
-## Manual configurations
+## Prerequisite
 
-*  Disable sleep mode
-```
-# System Preferences > Energy Saver > set Turn display off after to Never
-```
-* Disable screensaver
-```
-# System Preferences > Desktop & Screen Saver > set Start after to Never
-```
-* Allow Accessibility for Terminal in order to allow mocking simulator's location for UI testing
-```
-# System Preferences > Security & Privacy > Privacy > Accessibility > Add Terminal by tapping + button
-```
+* **Xcode** is a set of developer tools used to create iPad, iPod, iPhone, and Mac apps.
 
-## Manual setup
+## Setup
+1. Run the following command
+    ```
+    $ sudo sh ./setup-ios-slave-machine.sh
+    ```
+2. Setup MacOS's system preferences
 
-* Install **Xcode** 
-    * **Xcode** is a set of developer tools used to create iPad, iPod, iPhone, and Mac apps. ... You'll need to know a programming language like C, C++, and Objective-C to create apps with Xcode
-```
-# Download Xcode from App Store
-```
+    *  Disable sleep mode
+    ```
+    # System Preferences > Energy Saver > set Turn display off after to Never
+    ```
+    * Disable screensaver
+    ```
+    # System Preferences > Desktop & Screen Saver > set Start after to Never
+    ```
+3. Everything is all set 🎉
 
-## Automatable setup
-### Setup with shell script
-* All steps below can be proceed with this following command. 
-```
-$ sudo sh ./setup-ios-slave-machine.sh
-```
-### Installations & Configurations
+### What it does
+Below is what the script actually does in background
 * Xcode Configurations
 ```
 # Select xcode command line.
@@ -69,7 +62,7 @@ $ sudo gem install bundler
 ```
 
 * Add SSH Unknown host
-    * All SSH server host need to be added to `known_hosts`. In this case we use SSH for only `git`. Then hosts that need to be added are git provider host which we host are `ios-certificate-repository` and `ios-project-repository`
+    As all SSH server hosts need to be added to `known_hosts`, we need to add our git provider that hosts our `iOS-certificate-repository` and the project's repository so that our slave can use SSH for git command. In our case, it's Bitbucket.
 
 ```
 $ ssh -o StrictHostKeychecking=no bitbucket.org
