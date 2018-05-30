@@ -18,6 +18,10 @@ echo "> Installing Homebrew-Cask & Java"
 osascript -e 'tell application "terminal" to do script "brew tap caskroom/cask && brew cask install java"'
 echo ""
 
+echo "> Installing CMake & GMake"
+osascript -e 'tell application "terminal" to do script "brew install cmake && brew install homebrew/core/make"'
+echo ""
+
 echo "> Installing bundler"
 sudo gem install bundler 
 echo ""
