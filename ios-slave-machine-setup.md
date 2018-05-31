@@ -48,17 +48,17 @@ Below is what the script actually does in background
     ```
 
 * Install **Java Runtime Environment**
-    * **JAVA** is used executing Jenkins slave file (`slave.jar`) to connect to [Jenkins](https://jenkins.io/) master.
+    * **JAVA** is required for execution of Jenkins slave file (`slave.jar`) in order to connect with [Jenkins](https://jenkins.io/) master.
     ```
     $ brew cask install java
     ```
 
 * Install **GMake & CMake & pkg-config**
-    * **GMake & CMake & pkg-config** are used by [pronto](https://github.com/prontolabs/pronto). 
+    * **GMake & CMake & pkg-config** are used by [pronto](https://github.com/prontolabs/pronto), which is used for automated code review.
     ```
     $ brew install cmake && brew install homebrew/core/make && brew install pkg-config
     ```
-    
+
 * Install **Bundler**
     *  **Bundler** is an exit from dependency hell, and ensures that the gems you need are present in development, staging, and production.
     ```
@@ -66,7 +66,7 @@ Below is what the script actually does in background
     ```
 
 * Add SSH Unknown host
-    As all SSH server hosts need to be added to `known_hosts`, we need to add our git provider that hosts our `iOS-certificate-repository` and the project's repository so that our slave can use SSH for git command. In our case, it's Bitbucket.
+    As all SSH server hosts need to be added to `known_hosts`, we need to add our git provider that hosts our `iOS-certificate-repository` and the project's repository so that our slave can use SSH for git command. In our case, it's Bitbucket & GitHub.
     ```
-    $ ssh -o StrictHostKeychecking=no bitbucket.org
+    $ ssh -o StrictHostKeychecking=no bitbucket.org && ssh -o StrictHostKeychecking=no github.com
     ```
