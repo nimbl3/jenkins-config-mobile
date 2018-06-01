@@ -1,4 +1,3 @@
-echo "> Selecting Xcode command line"
 fancy_echo() {
     echo "> $1"
 }
@@ -14,43 +13,40 @@ open_terminal_and_execute() {
     osascript -e "tell application \"terminal\" to do script \"$COMMAND\""
 }
 
+fancy_echo "Selecting Xcode command line"
 sudo xcode-select -s /Applications/Xcode.app
-echo ""
+log_new_line
 
-echo "> Installing additional installation & Agree license"
+fancy_echo "Installing additional installation & Agree license"
 sudo xcodebuild -runFirstLaunch
-echo ""
+log_new_line
 
-echo "> Enabling Developer mode"
+fancy_echo "Enabling Developer mode"
 DevToolsSecurity -enable
-echo ""
+log_new_line
 
-echo "> Installing Homebrew"
+fancy_echo "Installing Homebrew"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-echo ""
+log_new_line
 
-echo "> Installing Homebrew-Cask & Java"
-osascript -e 'tell application "terminal" to do script "brew tap caskroom/cask && brew cask install java"'
-echo ""
+open_terminal_and_execute "brew tap caskroom/cask && brew cask install java" "Installing Homebrew-Cask & Java"
 
-echo "> Installing CMake & GMake"
-osascript -e 'tell application "terminal" to do script "brew install cmake && brew install homebrew/core/make"'
-echo ""
+open_terminal_and_execute "brew install cmake && brew install homebrew/core/make" "Installing CMake & GMake"
 
-echo "> Installing pkg-config"
-osascript -e 'tell application "terminal" to do script "brew install pkg-config"'
-echo ""
+open_terminal_and_execute "brew install pkg-config" "Installing pkg-config"
 
-echo "> Installing bundler"
+open_terminal_and_execute "brew tap phrase/brewed && brew install phraseapp" "Installing phraseapp"
+
+fancy_echo "Installing bundler"
 sudo gem install bundler 
-echo ""
+log_new_line
 
-echo "> Adding bitbucket.org to unknown_hosts"
+fancy_echo "Adding bitbucket.org to unknown_hosts"
 ssh -o StrictHostKeychecking=no bitbucket.org
-echo ""
+log_new_line
 
-echo "> Adding github.com to unknown_hosts"
+fancy_echo "Adding github.com to unknown_hosts"
 ssh -o StrictHostKeychecking=no github.com
-echo ""
+log_new_line
 
 exit
