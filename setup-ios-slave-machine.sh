@@ -1,4 +1,19 @@
 echo "> Selecting Xcode command line"
+fancy_echo() {
+    echo "> $1"
+}
+
+log_new_line() {
+    echo ""
+}
+
+open_terminal_and_execute() {
+    COMMAND=$1
+    MESSAGE=$2
+    fancy_echo "Openning new terminal and execute \"$COMMAND\""
+    osascript -e "tell application \"terminal\" to do script \"$COMMAND\""
+}
+
 sudo xcode-select -s /Applications/Xcode.app
 echo ""
 
