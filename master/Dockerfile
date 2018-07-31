@@ -19,8 +19,14 @@ ENV JAVA_OPTS -Djenkins.install.runSetupWizard=false
 # Expose Ports
 EXPOSE 8080 $JENKINS_SLAVE_AGENT_PORT
 
-# Start-up scripts to set number of executors and creating the admin user
-COPY executors.groovy /usr/share/jenkins/ref/init.groovy.d/
-COPY default-user.groovy /usr/share/jenkins/ref/init.groovy.d/
+# Init scripts that run at start-up time:
+# 1. Setup some policy configurations and satisfying the Warnings from Jenkins for security purpose
+COPY scripts/general-jenkins-config.groovy /usr/share/jenkins/ref/init.groovy.d/
+# 2. Creating default 'admin' user
+COPY scripts/default-user.groovy /usr/share/jenkins/ref/init.groovy.d/
+# 3. Configure Agent protocol, removing deprecated TCP connection
+COPY scripts/agent-protocol-config.groovy /usr/share/jenkins/ref/init.groovy.d/
+# 4. Configure CSRF protection (Cross )
+COPY scripts/csrf-config.groovy /usr/share/jenkins/ref/init.groovy.d/
 
 VOLUME /var/jenkins_home

@@ -1,8 +1,12 @@
+/**
+ * Create first default Jenkins user (admin) for general setting configuration.
+ * The current default username & password configuration is $env.JENKINS_USER and $env.JENKINS_PASS
+ */
+
 import jenkins.model.*
 import hudson.security.*
 
 def env = System.getenv()
-
 
 def jenkins = Jenkins.getInstance()
 jenkins.setSecurityRealm(new HudsonPrivateSecurityRealm(false))
