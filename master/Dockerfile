@@ -4,7 +4,7 @@ FROM jenkinsci/blueocean:latest
 # Installing the plugins we need using the in-built install-plugins.sh script
 RUN /usr/local/bin/install-plugins.sh \ 
     git git-parameter matrix-auth parameterized-trigger workflow-aggregator ssh-agent ssh-slaves \ 
-    docker-workflow credentials-binding htmlpublisher gradle xcode-plugin
+    docker-workflow credentials-binding htmlpublisher xcode-plugin
 
 # Setting up environment variables for Jenkins admin user
 ENV JENKINS_USER admin
