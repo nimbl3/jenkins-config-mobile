@@ -26,7 +26,7 @@ COPY scripts/general-jenkins-config.groovy /usr/share/jenkins/ref/init.groovy.d/
 COPY scripts/default-user.groovy /usr/share/jenkins/ref/init.groovy.d/
 # 3. Configure Agent protocol, removing deprecated TCP connection
 COPY scripts/agent-protocol-config.groovy /usr/share/jenkins/ref/init.groovy.d/
-# 4. Configure CSRF protection (Cross )
+# 4. Configure CSRF protection
 COPY scripts/csrf-config.groovy /usr/share/jenkins/ref/init.groovy.d/
 
 VOLUME /var/jenkins_home
