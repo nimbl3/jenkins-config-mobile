@@ -3,13 +3,13 @@
 ## Setup machine:
 - For Android development:
     - Start Java as allowed service on Mac OS (required for the Hi-Sierra OS)
-    - Run `$ sh init-script.sh`
+    - Run `$ sh android-init-script.sh`
     - Install Android Studio for the base tools set.
     - Create the desired Emulator profile to use for testing. 
 - For iOS development:
    - [iOS Slave machine configurations](ios-slave-machine-setup.md)
 
-## Run jenkins in local machine
+## HOW-TO run jenkins in docker and attach the volume: [DEPRECATED]
 - Install Docker.
 - Run `$ sh docker_run.sh`.
 - Jenkins is up at `http://localhost` without any security. Next step is to re-configure the security and re-new the credentials to access to project's repository.
