@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<jenkins.model.JenkinsLocationConfiguration>
-  <adminAddress>trung@nimbl3.com</adminAddress>
-  <jenkinsUrl>https://03cfbf51.ngrok.io/</jenkinsUrl>
-</jenkins.model.JenkinsLocationConfiguration>
