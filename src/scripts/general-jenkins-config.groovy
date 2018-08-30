@@ -4,7 +4,7 @@
 import jenkins.model.*
 import jenkins.security.s2m.AdminWhitelistRule
 
-String DEFAULT_JENKINS_URL = "http://localhost:8080"
+String DEFAULT_JENKINS_URL = "http://localhost:80/"
 Jenkins jenkinsInstance = Jenkins.instance
 
 jenkinsInstance.setNumExecutors(0)
