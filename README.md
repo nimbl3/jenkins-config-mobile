@@ -9,7 +9,7 @@
 - For iOS development:
    - [iOS Slave machine configurations](ios-slave-machine-setup.md)
 
-## HOW-TO run jenkins in docker and attach the volume: [DEPRECATED]
+## HOW-TO run jenkins in docker and attach the volume:
 - Install Docker.
 - Build Jenkins image with all plugins and basic config: `$ docker build src/ -t jenkins/blue:latest`
 - Run `$ sh docker_run.sh`.
