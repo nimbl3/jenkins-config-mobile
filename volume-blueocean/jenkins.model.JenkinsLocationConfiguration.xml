@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<jenkins.model.JenkinsLocationConfiguration>
-  <adminAddress>dev@nimbl3.com</adminAddress>
-  <jenkinsUrl>http://jenkins.nimbl3.com/</jenkinsUrl>
-</jenkins.model.JenkinsLocationConfiguration>
