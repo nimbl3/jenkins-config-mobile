@@ -1,7 +1,7 @@
 # Jenkins Configuration for mobile apps projects
 
 ## Setup machine:
-- Run `$ sh init-script.sh`
+- Run `$ sh android-init-script.sh`
 - Start Java as allowed service on Mac OS (required for the Hi-Sierra OS)
 - For Android development:
    - Install Android Studio for the base tools set.
